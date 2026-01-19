@@ -35,5 +35,3 @@ Two sensors are used:
 Output is printed on **Serial Monitor only**.
 
 ---
-
-## Repository Structure
